@@ -1,0 +1,25 @@
+
+I
+gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+o
+?app/src/main/java/com/projectbasic/alarmmanager/Notification.kt,1\6\1639b01a95bb8c566d960ce80a7f4cdefb999394
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+o
+?app/src/main/java/com/projectbasic/alarmmanager/MainActivity.kt,1\d\1d233b283a691c467d083b893d4657d236441594
+x
+Happ/src/main/java/com/projectbasic/alarmmanager/AndroidAlarmScheduler.kt,1\f\1f56ee808c553f27c5090fc1cffda67b7421bcae
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+o
+?app/src/main/java/com/projectbasic/alarmmanager/TodoResponse.kt,2\5\25782b40bbbf00b52151135c7713aa10acd823e3
+r
+Bapp/src/main/java/com/projectbasic/alarmmanager/BaseApplication.kt,3\6\36851dd6e44580eeb29678936aa26e400a364d74
+q
+Aapp/src/main/java/com/projectbasic/alarmmanager/AlarmScheduler.kt,d\6\d6c2d1a59c79434bd63a7d3a92f3aa397c22c4b4
+l
+<app/src/main/java/com/projectbasic/alarmmanager/NewQuotes.kt,e\1\e16504dba0d6e17eede266c9114d5658fe142a26
+k
+;app/src/main/java/com/projectbasic/alarmmanager/QuoteApi.kt,4\4\44fc3f7a52bc2de05662638c466fe8c342a7d4c3
+p
+@app/src/main/java/com/projectbasic/alarmmanager/AlarmReciever.kt,b\3\b3957dbb1bf04a44a92a0fb33b9be7a75ce7e5c1
